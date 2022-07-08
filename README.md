@@ -27,8 +27,8 @@ EVERYTHING REAL TIME.
 
 ![App Screenshot](https://github.com/guptashubham95a/instagram-clone/blob/main/im1.jpg)
 
-![App Screenshot](https://github.com/guptashubham95a/instagram-clone/blob/main/im2)
+![App Screenshot](https://github.com/guptashubham95a/instagram-clone/blob/main/im2.jpg)
 
-![App Screenshot](https://github.com/guptashubham95a/instagram-clone/blob/main/im3)
+![App Screenshot](https://github.com/guptashubham95a/instagram-clone/blob/main/im3.jpg)
 
 
